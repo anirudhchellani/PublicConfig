@@ -1,0 +1,4 @@
+#Script Bindings
+#Generate I3
+bindsym $mod+MOD1+i exec i3-sensible-terminal -e "cd ~/.config/i3 && cat config.* > config"
+bindsym $mod+MOD1+w exec i3-sensible-terminal -e "changeWallpaper.sh"

@@ -1,0 +1,8 @@
+#Open programs
+#firefox
+bindsym $mod+Shift+f exec firefox -new-window http://www.gooogle.com
+#Terminal
+bindsym $mod+t exec i3-sensible-terminal
+#Program launcher
+bindsym $mod+d exec "rofi -show drun -show-icons"
+
