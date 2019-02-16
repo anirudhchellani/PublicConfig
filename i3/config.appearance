@@ -1,6 +1,6 @@
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 16
+font pango:monospace 12
 #color for title bar
 client.focused	#4c7899	#646b70	#ffffff	#2e9ef4	#285577
 bar {
